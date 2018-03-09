@@ -1,1 +1,1 @@
-# working-paper-on-Japan-ses-and-housework
+# Stata code of the working paper on ses and housework
